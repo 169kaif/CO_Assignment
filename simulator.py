@@ -30,3 +30,6 @@ d={"add":["A","10000"],"sub":["A","10001"],"mov":["B","10010"],"ld":["D","10100"
 for i in range(0,len(instructions)):
     opcode=instructions[:5]
     if 
+
+
+#kaif test push
